@@ -14,8 +14,8 @@ def divide(a, b):
         return "Cannot divide by zero"
 
 # Taking user input
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 5
+num2 = 3
 
 print(f"Addition: {add(num1, num2)}")
 print(f"Subtraction: {subtract(num1, num2)}")
